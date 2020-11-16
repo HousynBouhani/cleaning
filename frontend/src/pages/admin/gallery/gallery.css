@@ -1,0 +1,13 @@
+
+.back-arrow {
+    height: 30px;
+}
+
+.remove-image {
+   width: 20px;
+}
+
+.image-gallery:hover {
+    opacity: 0.7;
+} 
+

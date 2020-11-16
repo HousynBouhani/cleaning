@@ -1,0 +1,29 @@
+.home-dashboard {
+  width: 90px;
+  position: relative;
+  top: -3px;
+  left: 20px;
+  margin-right: 50px;
+}
+.logout {
+  height: 22px;
+}
+.nav-border {
+  border-bottom: 1px solid #dfe1e5;
+}
+.ausloggen {
+  color: #00c5f0;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+.nav-link {
+  color: #00c5f0!important;
+  font-family: "Brown-Bold";
+  font-size: 20px;
+}
+
+
+.navIcon {
+  height: 30px;
+}

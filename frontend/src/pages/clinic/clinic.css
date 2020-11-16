@@ -1,0 +1,50 @@
+.service-header {
+    background-color: #83d8f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+    margin-bottom: 100px;
+  }
+  .service-title {
+    font-size: 40px;
+    font-family: "Brown-Bold";
+    color: #ffffff;
+  }
+  
+  .service-description {
+    margin-bottom: 100px;
+  }
+  
+  .sevices-list .row {
+    margin-bottom: 50px;
+  }
+  
+  .sevices-list img {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .sevices-list h3 {
+    font-family: "Brown-Bold";
+    text-align: center;
+    color: #212529;
+  }
+  
+  .sevices-list img:hover {
+    opacity: 0.8;
+  }
+  
+  
+  
+  /*********** Media Queries **************/
+  
+  @media (max-width: 991px) {
+      .service-bubble {
+          margin-bottom: 35px;
+      }
+  
+      .sevices-list .row {
+          margin-bottom: 0px;
+      }
+    }

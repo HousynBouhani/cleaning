@@ -1,0 +1,14 @@
+.login {
+    background-color: #00c5f0!important;
+    border: none!important;
+  
+    box-shadow: none!important;
+}
+
+.form-control {
+    border-radius: 0!important;
+}
+
+.login-container {
+    height: 300px;
+}

@@ -1,0 +1,31 @@
+.footer-section {
+    margin-top: 100px;
+   padding: 100px;
+    background-color: #002554;
+}
+
+.footer-section ul{
+    list-style: none;
+    color: #ffffff;
+    font-family: "Brown-Bold";
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+.footer-section ul li a{
+    color: #ffffff;
+}
+
+
+
+
+@media (max-width: 990px) {
+
+    .footer-section ul{
+      text-align: center;
+      font-size: 15px;
+    }
+    
+    
+  }
+  

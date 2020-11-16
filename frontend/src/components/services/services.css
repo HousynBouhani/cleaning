@@ -1,0 +1,13 @@
+.services-section {
+    margin-top: 100px;
+}
+
+.services-section a {
+    color:#212529
+}
+
+
+.services-section img:hover {
+    opacity: 0.8;
+}
+

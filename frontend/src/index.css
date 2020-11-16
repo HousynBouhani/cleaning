@@ -1,0 +1,64 @@
+@import url("./assets/fonts/Brown/brown.css");
+
+body {
+  margin: 0;
+  font-family: "Brown-Regular", sans-serif;
+  font-size: 18px !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: "Brown-Bold";
+  color: #00b1eb;
+}
+
+h3 {
+  font-family: "Brown-Bold";
+  font-size: 20px;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none !important;
+  background-color: transparent;
+}
+
+/************ STYLE FOR SUBSECTIONS **************/
+.service-banner .banner {
+  max-width: 100%;
+}
+
+.service-banner .row {
+  margin: 0 !important;
+}
+
+.description-service {
+  font-size: 17px;
+}
+
+.final-cleaning {
+  margin: 100px 0;
+}
+
+/*********** Media Queries **************/
+
+@media (max-width: 763px) {
+  h2 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 763px) {
+  .placeholder {
+    flex-direction: column;
+  }
+
+  .certif {
+    margin-bottom: 25px;
+  }
+}

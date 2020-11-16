@@ -1,0 +1,12 @@
+.map {
+  background-image: url("https://maps.googleapis.com/maps/api/staticmap?scale=1&size=1600x900&style=feature:poi.business|visibility:off&style=feature:water|visibility:simplified&style=feature:road|element:labels.icon|visibility:off&style=feature:road.highway|element:labels|saturation:-90|lightness:25&format=jpg&language=de&region=DE&markers=color:0x5f9bce|52.42191,9.60201&zoom=16&client=google-presto&signature=e5-9rM04W-ZIj-Y20IsNJddcNEk");
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 293px;
+  background-size: cover;
+}
+
+.contact-list {
+  list-style: none;
+}
