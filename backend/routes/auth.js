@@ -1,4 +1,4 @@
-import express, { request, response } from "express";
+import express from "express";
 import Admin from "../models/Admin.js";
 import { check, validationResult } from "express-validator";
 import bcrypt from "bcryptjs";

@@ -8,7 +8,6 @@ const Imprint = () => {
         <div className="info-title d-flex justify-content-center mt-5 w-100">
           <h2>Impressum</h2>
         </div>
-
         <div className="info-text mt-5">
           <ul style={{ listStyle: "none",padding:0 }}>
             <li>Rein &amp; Sauber</li>
@@ -17,8 +16,9 @@ const Imprint = () => {
             <li>Vertreten durch:</li>
             <li className="mb-3">Geschäftsführer:</li>
             <li>Yasser Hassan</li>
-            <li>Tel: ‎+49 5137 8904101</li>
-            <li>E-Mail:</li>
+            <li>+49 157 312 232 22</li>
+            <li>+49 513 789 041 01</li>
+            <li>E-Mail:info@reinheit-sauberkeit.de</li>
             <li className="mb-3">Registereintrag: </li>
             Eintragung im Handelsregister.
             <li> Registergericht: HannoverII</li>

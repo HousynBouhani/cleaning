@@ -36,8 +36,8 @@ const Post = (props) => {
           Noch keine Beiträge
         </div>
       ) : (
-        <div className="row">
-          <div className="col-md-12" key={post._id}>
+        <div className="row justify-content-center">
+          <div className="col-md-8" key={post._id}>
             <div
               className="card mb-4 box-shadow"
               style={{ boxShadow: "0 0.25rem 0.75rem rgba(0, 0, 0, .05)" }}

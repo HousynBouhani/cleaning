@@ -18,12 +18,14 @@ const DataProtection = () => {
           </p>
           <br />
           <ul>
+      
+
             <li>Rein &amp; Sauber</li>
             <li>Gebäudereinigungsservice</li>
             <li>Venushof.6a 30823 Garbsen</li>
-            <li>Telefon: ‎+49(0)5137 8904101</li>
-            <li>Handy: +49(0)15114163124</li>
-            <li>E-Mail:</li>
+            <li>+49 157 312 232 22</li>
+            <li>+49 513 789 041 01</li>
+            <li>E-Mail:info@reinheit-sauberkeit.de</li>
           </ul>
 
           <strong className="mb-3 d-block">
@@ -96,63 +98,70 @@ const DataProtection = () => {
           oder gelöscht.
         </p>
 
-        <strong className="my-3 d-block">Verwendung von Google Analytics</strong>
-        <p>Diese Webseite benutzt Google Analytics, einen Webanalysedienst der Google Inc. (folgend: Google).
-Google Analytics verwendet sog. „Cookies“, also Textdateien, die auf Ihrem Computer gespeichert
-werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch das
-Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen
-Server von Google in den USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-
-Anonymisierung auf diesen Webseiten, wird Ihre IP-Adresse von Google jedoch innerhalb von
-Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an
-einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser
-Webseite wird Google diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten,
-um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der
-Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem
-Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser
-übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
-
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-
-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht
-sämtliche Funktionen dieser Webseite vollumfänglich werden nutzen können. Sie können darüber
-hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen
-Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
-verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und
-installieren: Browser-Add-on zur Deaktivierung von Google Analytics.
-
-Zusätzlich oder als Alternative zum Browser-Add-On können Sie das Tracking durch Google Analytics
-auf unseren Seiten unterbinden, indem Sie diesen Link anklicken . Dabei wird ein Opt-Out-Cookie auf
-Ihrem Gerät installiert. Damit wird die Erfassung durch Google Analytics für diese Website und für
-diesen Browser zukünftig verhindert, so lange der Cookie in Ihrem Browser installiert bleibt.
-
-Ihre Rechte auf Auskunft, Berichtigung, Sperre, Löschung und Widerspruch
-Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten
-zu erhalten. Ebenso haben Sie das Recht auf Berichtigung, Sperrung oder, abgesehen von der
-vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung Ihrer personenbezogenen
-Daten. Bitte wenden Sie sich dazu an unseren Datenschutzbeauftragten. Die Kontaktdaten finden Sie
-ganz unten.
-
-Damit eine Sperre von Daten jederzeit berücksichtigt werden kann, müssen diese Daten zu
-Kontrollzwecken in einer Sperrdatei vorgehalten werden. Sie können auch die Löschung der Daten
-verlangen, soweit keine gesetzliche Archivierungsverpflichtung besteht. Soweit eine solche
-Verpflichtung besteht, sperren wir Ihre Daten auf Wunsch.
-
-Sie können Änderungen oder den Widerruf einer Einwilligung durch entsprechende Mitteilung an uns
-mit Wirkung für die Zukunft vornehmen.
-
-Änderung unserer Datenschutzbestimmungen
-Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit sie stets den
-aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der
-Datenschutzerklärung umzusetzen, z. B. bei der Einführung neuer Services. Für Ihren erneuten
-Besuch gilt dann die neue Datenschutzerklärung.
-
-Fragen an den Datenschutzbeauftragten
-Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich
-direkt an unseren Datenschutzbeauftragten:</p>
-
-<ul>
-    <li>Email:</li>
-</ul>
+        <strong className="my-3 d-block">
+          Verwendung von Google Analytics
+        </strong>
+        <p>
+          Diese Webseite benutzt Google Analytics, einen Webanalysedienst der
+          Google Inc. (folgend: Google). Google Analytics verwendet sog.
+          „Cookies“, also Textdateien, die auf Ihrem Computer gespeichert werden
+          und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen.
+          Die durch das Cookie erzeugten Informationen über Ihre Benutzung
+          dieser Webseite werden in der Regel an einen Server von Google in den
+          USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-
+          Anonymisierung auf diesen Webseiten, wird Ihre IP-Adresse von Google
+          jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in
+          anderen Vertragsstaaten des Abkommens über den Europäischen
+          Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle
+          IP-Adresse an einen Server von Google in den USA übertragen und dort
+          gekürzt. Im Auftrag des Betreibers dieser Webseite wird Google diese
+          Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um
+          Reports über die Webseitenaktivitäten zusammenzustellen und um weitere
+          mit der Webseitennutzung und der Internetnutzung verbundene
+          Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im
+          Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse
+          wird nicht mit anderen Daten von Google zusammengeführt. Sie können
+          die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer
+          Browser- Software verhindern; wir weisen Sie jedoch darauf hin, dass
+          Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser
+          Webseite vollumfänglich werden nutzen können. Sie können darüber
+          hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre
+          Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an
+          Google sowie die Verarbeitung dieser Daten durch Google verhindern,
+          indem sie das unter dem folgenden Link verfügbare Browser-Plugin
+          herunterladen und installieren: Browser-Add-on zur Deaktivierung von
+          Google Analytics. Zusätzlich oder als Alternative zum Browser-Add-On
+          können Sie das Tracking durch Google Analytics auf unseren Seiten
+          unterbinden, indem Sie diesen Link anklicken . Dabei wird ein
+          Opt-Out-Cookie auf Ihrem Gerät installiert. Damit wird die Erfassung
+          durch Google Analytics für diese Website und für diesen Browser
+          zukünftig verhindert, so lange der Cookie in Ihrem Browser installiert
+          bleibt. Ihre Rechte auf Auskunft, Berichtigung, Sperre, Löschung und
+          Widerspruch Sie haben das Recht, jederzeit Auskunft über Ihre bei uns
+          gespeicherten personenbezogenen Daten zu erhalten. Ebenso haben Sie
+          das Recht auf Berichtigung, Sperrung oder, abgesehen von der
+          vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung
+          Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an unseren
+          Datenschutzbeauftragten. Die Kontaktdaten finden Sie ganz unten. Damit
+          eine Sperre von Daten jederzeit berücksichtigt werden kann, müssen
+          diese Daten zu Kontrollzwecken in einer Sperrdatei vorgehalten werden.
+          Sie können auch die Löschung der Daten verlangen, soweit keine
+          gesetzliche Archivierungsverpflichtung besteht. Soweit eine solche
+          Verpflichtung besteht, sperren wir Ihre Daten auf Wunsch. Sie können
+          Änderungen oder den Widerruf einer Einwilligung durch entsprechende
+          Mitteilung an uns mit Wirkung für die Zukunft vornehmen. Änderung
+          unserer Datenschutzbestimmungen Wir behalten uns vor, diese
+          Datenschutzerklärung gelegentlich anzupassen, damit sie stets den
+          aktuellen rechtlichen Anforderungen entspricht oder um Änderungen
+          unserer Leistungen in der Datenschutzerklärung umzusetzen, z. B. bei
+          der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die
+          neue Datenschutzerklärung. Fragen an den Datenschutzbeauftragten Wenn
+          Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail
+          oder wenden Sie sich direkt an unseren Datenschutzbeauftragten:
+        </p>
+        <ul>
+          <li>E-Mail:info@reinheit-sauberkeit.de</li>
+        </ul>
       </Row>
     </Container>
   );
